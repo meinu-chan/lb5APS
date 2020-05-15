@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lb5APS", "lb5APS\lb5APS.csproj", "{AB4E65F3-14B1-4553-AEA3-FEDC427263AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4E65F3-14B1-4553-AEA3-FEDC427263AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4E65F3-14B1-4553-AEA3-FEDC427263AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4E65F3-14B1-4553-AEA3-FEDC427263AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4E65F3-14B1-4553-AEA3-FEDC427263AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABD8C01-9456-4C9B-B5A9-5C07E785E302}
+	EndGlobalSection
+EndGlobal
